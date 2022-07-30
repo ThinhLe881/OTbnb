@@ -1,0 +1,13 @@
+Welcome to OT-BnB! Please login to enter transactions.
+Login:
+Please enter a username...
+Hello User001! What would you like to do?
+Post:
+Please enter the city (case-sensitive)...
+Please enter the rental price per night…
+Please enter the number of bedrooms…
+The unit has been posted!
+Hello User001! What would you like to do?
+Logout: 
+You have logged out. Please login to enter transactions.
+Thank you for using OT-BnB. Goodbye!

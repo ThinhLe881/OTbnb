@@ -1,0 +1,3 @@
+03 User001         AA A0000006 Toronto                   3 500.55   
+02 User004         RS                                               
+00

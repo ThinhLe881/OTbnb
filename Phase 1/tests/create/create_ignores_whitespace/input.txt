@@ -1,0 +1,7 @@
+login
+User001
+create
+                  User007            
+  FS  
+logout
+quit

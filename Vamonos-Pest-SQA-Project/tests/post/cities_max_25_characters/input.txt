@@ -1,0 +1,9 @@
+login
+User002
+post
+MiamiMiamiMiamiMiamiMiamiM
+MiamiMiamiMiamiMiamiMiami
+100.00
+1
+logout
+quit

@@ -1,0 +1,9 @@
+A0000001 User001         Toronto                   2 300.00 F
+A0000002 User002         Quebec                    4 600.50 F
+A0000003 User005         Toronto                   1 200.00 F
+A0000004 User005         Calgary                   1 200.50 T 01
+A0000005 User001         Oshawa                    3 450.50 F
+A0000006 User001         Tobermory                 1 099.99 F
+A0000007 User002         Tofino                    2 250.00 F
+A0000008 User005         Toronto                   3 350.00 T
+END

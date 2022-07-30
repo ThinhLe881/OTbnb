@@ -1,0 +1,10 @@
+login
+User001
+post
+logout
+logout
+100
+logout
+1
+logout
+quit

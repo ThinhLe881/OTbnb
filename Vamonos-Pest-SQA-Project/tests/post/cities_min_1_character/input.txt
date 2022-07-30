@@ -1,0 +1,9 @@
+login
+User002
+post
+
+a
+100.00
+1
+logout
+quit

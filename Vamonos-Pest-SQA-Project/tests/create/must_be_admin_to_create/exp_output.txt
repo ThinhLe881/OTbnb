@@ -1,0 +1,26 @@
+Welcome to OT-BnB! Please login to enter transactions.
+Login:
+Please enter a username...
+Hello User003! What would you like to do?
+Create:
+Sorry, you don't have administrator privileges!
+Hello User003! What would you like to do?
+Logout:
+You have logged out. Please login to enter transactions.
+Login:
+Please enter a username...
+Hello User004! What would you like to do?
+Create:
+Sorry, you don't have administrator privileges!
+Hello User004! What would you like to do?
+Logout:
+You have logged out. Please login to enter transactions.
+Login:
+Please enter a username...
+Hello User005! What would you like to do?
+Create:
+Sorry, you don't have administrator privileges!
+Hello User005! What would you like to do?
+Logout:
+You have logged out. Please login to enter transactions.
+Thank you for using OT-BnB. Goodbye!

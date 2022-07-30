@@ -1,0 +1,12 @@
+login
+User001
+search
+*
+onehundred
+1hundred
+1*
+
+100
+1
+logout
+quit

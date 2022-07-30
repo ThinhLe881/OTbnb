@@ -1,0 +1,5 @@
+01 User007         AA                                               
+01 User008         FS                                               
+01 User009         RS                                               
+01 User100         PS                                               
+00

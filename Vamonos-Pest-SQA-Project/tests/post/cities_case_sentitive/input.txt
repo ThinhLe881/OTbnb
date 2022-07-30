@@ -1,0 +1,8 @@
+login
+User005
+post
+toronto
+100.00
+1
+logout
+quit

@@ -1,0 +1,11 @@
+login
+User003
+post
+Toront0
+Toronto&
+Santa_Fe
+Rio de-Janeiro
+100.00
+1
+logout
+quit

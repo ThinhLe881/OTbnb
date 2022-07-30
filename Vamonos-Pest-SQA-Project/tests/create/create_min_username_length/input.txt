@@ -1,0 +1,8 @@
+login
+User001
+create
+
+a
+FS
+logout
+quit

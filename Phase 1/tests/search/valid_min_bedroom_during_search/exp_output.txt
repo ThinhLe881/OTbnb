@@ -1,0 +1,27 @@
+Welcome to OT-BnB! Please login to enter transactions.
+Login:
+Please enter a username...
+Hello User001! What would you like to do?
+Search:
+Please enter the city name (case sensitive)…
+Please enter the maximum rental price…
+Please enter the minimum number of bedrooms…
+Sorry, that input was not understood. The input should be numeric.
+Please enter the minimum number of bedrooms…
+Sorry, that input was not understood. The input should be numeric.
+Please enter the minimum number of bedrooms…
+Sorry, that input was not understood. The input should be numeric.
+Please enter the minimum number of bedrooms…
+Sorry, that input was not understood. The input should be numeric.
+Please enter the minimum number of bedrooms…
+Here are the rentals matching your search criteria:
+Rental ID | Host            | City                      | Bedrooms | Price 
+---------------------------------------------------------------------------
+A0000001  | User001         | Toronto                   |    2     | 300.00
+A0000002  | User002         | Quebec                    |    4     | 600.50
+A0000005  | User001         | Oshawa                    |    3     | 450.50
+A0000007  | User002         | Tofino                    |    2     | 250.00
+Hello User001! What would you like to do?
+Logout:
+You have logged out. Please login to enter transactions.
+Thank you for using OT-BnB. Goodbye!

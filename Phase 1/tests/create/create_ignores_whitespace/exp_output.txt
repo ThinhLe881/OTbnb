@@ -1,0 +1,12 @@
+Welcome to OT-BnB! Please login to enter transactions.
+Login:
+Please enter a username...
+Hello User001! What would you like to do?
+Create:
+Please enter the new username…
+Please enter the new user type…
+New user User007 created!
+Hello User001! What would you like to do?
+Logout:
+You have logged out. Please login to enter transactions.
+Thank you for using OT-BnB. Goodbye!

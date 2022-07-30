@@ -1,0 +1,10 @@
+login
+User001
+search
+quit
+quit
+100
+quit
+1
+logout
+quit

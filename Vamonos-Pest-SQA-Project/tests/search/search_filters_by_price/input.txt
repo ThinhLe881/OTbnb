@@ -1,0 +1,8 @@
+login
+User001
+search
+*
+250.00
+1
+logout
+quit

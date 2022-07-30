@@ -1,0 +1,9 @@
+login
+User002
+post
+Toronto
+0
+0.01
+1
+logout
+quit

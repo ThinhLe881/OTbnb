@@ -1,0 +1,7 @@
+04 User001         AA          *                         0 999.00   
+04 User001         AA          To*                       0 999.00   
+04 User001         AA          *ry                       0 999.00   
+04 User001         AA          To*o                      0 999.00   
+04 User001         AA          *be*                      0 999.00   
+04 User001         AA          *a*a*                     0 999.00   
+00

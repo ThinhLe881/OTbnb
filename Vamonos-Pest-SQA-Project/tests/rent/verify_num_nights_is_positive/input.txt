@@ -1,0 +1,10 @@
+login
+User001
+rent
+A0000003
+-1
+0
+1
+yes
+logout
+quit

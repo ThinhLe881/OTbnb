@@ -1,0 +1,12 @@
+login
+User001
+search
+*
+999
+two
+2two
+2*
+
+2
+logout
+quit

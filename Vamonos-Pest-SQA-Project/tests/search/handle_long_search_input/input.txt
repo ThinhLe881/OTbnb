@@ -1,0 +1,12 @@
+login
+User001
+search
+MiamiMiamiMiamiMiamiMiamiMiamiMiamiMiami
+999
+1
+search
+Toronto**********************************
+999
+1
+logout
+quit

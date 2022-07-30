@@ -1,0 +1,8 @@
+login
+User001
+search
+*
+*
+1
+logout
+quit

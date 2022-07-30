@@ -1,0 +1,8 @@
+login
+User001
+create
+User005
+User006
+FS
+logout
+quit

@@ -1,0 +1,11 @@
+login
+User001
+rent
+quit
+A0000004
+quit
+2
+quit
+no
+logout
+quit

@@ -1,0 +1,9 @@
+login
+User004
+rent
+A0000008
+A0000003
+2
+yes
+logout
+quit

@@ -1,0 +1,6 @@
+User001         AA
+User002         AA
+User003         FS
+User004         RS
+User005         PS
+END

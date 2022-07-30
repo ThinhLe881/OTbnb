@@ -1,0 +1,5 @@
+login
+User001
+rent
+logout
+quit

@@ -1,0 +1,6 @@
+03 User001         AA A0000009 Toronto                   3 500.55   
+02 User004         RS                                               
+01 User006         AA                                               
+04 User001         AA          Calgary                   1 500.00   
+05 User001         AA A0000004 Calgary                   1 200.50 02
+00
