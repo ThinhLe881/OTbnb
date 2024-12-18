@@ -1,3 +1,7 @@
-# OT-BnB - Vamonos Pest SQA Team
+# OT-BnB - SQA Project
 
-## Ben Tsoumagas, Thinh Le, Muaz Rehman, Cody Malcolm
+## Team Members:
+- Ben Tsoumagas
+- Thinh Le
+- Muaz Rehman
+- Cody Malcolm
