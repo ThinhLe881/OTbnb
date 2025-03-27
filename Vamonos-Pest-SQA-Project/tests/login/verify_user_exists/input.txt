@@ -1,5 +1,0 @@
-login
-User006
-User001
-logout
-quit

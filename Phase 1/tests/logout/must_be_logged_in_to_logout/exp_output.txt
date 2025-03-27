@@ -1,4 +1,0 @@
-Welcome to OT-BnB! Please login to enter transactions.
-Logout:
-You are already logged out! Please ‘login’ or ‘quit’.
-Thank you for using OT-BnB. Goodbye!

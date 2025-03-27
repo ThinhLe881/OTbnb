@@ -1,8 +1,0 @@
-login
-User001
-search
-                        Quebec 
-         999 
-      1 
-logout
-quit

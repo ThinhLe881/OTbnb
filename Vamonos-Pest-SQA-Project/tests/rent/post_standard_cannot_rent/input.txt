@@ -1,5 +1,0 @@
-login
-User005
-rent
-logout
-quit

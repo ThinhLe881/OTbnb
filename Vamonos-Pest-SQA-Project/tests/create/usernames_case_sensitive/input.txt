@@ -1,8 +1,0 @@
-login
-User001
-create
-User005
-user005
-fs
-logout
-quit

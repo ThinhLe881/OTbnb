@@ -1,3 +1,0 @@
-04 User001         AA          MiamiMiamiMiamiMiamiMiami 1 999.00   
-04 User001         AA          Toronto****************** 1 999.00   
-00

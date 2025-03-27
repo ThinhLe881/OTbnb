@@ -1,4 +1,0 @@
-04 User001         AA          Toronto                   1 500.00
-05 User001         AA A0000003 Toronto                   1 200.00 02  
-04 User001         AA          Toronto                   1 500.00  
-00

@@ -1,4 +1,0 @@
-Welcome to OT-BnB! Please login to enter transactions.
-Search:
-Sorry, you are not logged in. Please login to enter transactions.
-Thank you for using OT-BnB. Goodbye!

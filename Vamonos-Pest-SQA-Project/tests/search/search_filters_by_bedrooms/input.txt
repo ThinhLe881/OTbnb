@@ -1,8 +1,0 @@
-login
-User001
-search
-*
-999
-3
-logout
-quit

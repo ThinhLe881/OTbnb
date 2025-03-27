@@ -1,9 +1,0 @@
-login
-User001
-rent
-A0000003
-15
-14
-yes
-logout
-quit

@@ -1,8 +1,0 @@
-login
-User001
-search
-Toronto
-200
-2
-logout
-quit

@@ -1,9 +1,0 @@
-login
-User001
-post
-Toronto
-100.00
--1
-0
-logout
-quit
