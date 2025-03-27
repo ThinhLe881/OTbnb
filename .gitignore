@@ -12,7 +12,7 @@ daily_tests/
 *.class
 
 # Log file
-*.log
+# *.log
 
 # BlueJ files
 *.ctxt
@@ -111,3 +111,7 @@ modules.xml
 
 # Sonarlint plugin
 .idea/sonarlint
+
+*.pdf
+*.png
+*.jpg
